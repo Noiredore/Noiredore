@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Noiredore
+- 👋 Hi, I’m Daniel Malyshev
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning QA Testing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for job as QA Intern/Junior QA
 - 📫 How to reach me: firefly3556@gmail.com
 
 <!---
